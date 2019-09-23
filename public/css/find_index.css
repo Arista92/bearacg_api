@@ -1,0 +1,125 @@
+.find-screen{
+    margin-top: 20px;
+    width: 100%;
+    height: 260px;
+}
+.find-screen-one{
+    width: 100%;
+    height: 70px;
+    margin-bottom: 15px;
+}
+.find-screen-one-left{
+    width: 10%;
+    height: 70px;
+    float: left;
+    font-size: 35px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 70px;
+}
+.find-screen-one-right{
+    width: 88%;
+    margin-left: 2%;
+    float: left;
+    overflow: auto;
+    height: 70px;
+    font-size: 25px;
+}
+.find-screen-one-right-wrap{
+    width: 150%;
+    float: left;
+    height: 70px;
+}
+.find-screen-list{
+    height: 70px;
+    padding: 15px 30px 15px 30px;
+    background: rgba(238, 238, 238, 0.4);
+    border-radius: 10px;
+    float: left;
+    line-height: 38px;
+    margin-right: 15px;
+}
+.find-content{
+    width: 100%;
+    height: 335px;
+    padding: 30px 0 30px 0;
+    border-bottom: 1px solid #eee;
+}
+.find-content-img{
+    width: 24%;
+    height: 275px;
+    float: left;
+    margin-right: 5%;
+}
+.find-content-img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.find-content-list{
+    width: 70%;
+    float: left;
+    height:275px;
+}
+.find-content-list-title{
+    width: 100%;
+    height: 80px;
+    line-height: 50px;
+    font-size: 35px;
+    font-weight: 600;
+}
+.find-content-list-pingfen{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+}
+.find-content-list-pingfen-img{
+    width: 135px;
+    height: 20px;
+    margin-top: 13px;
+    float: left;
+}
+.find-content-list-pingfen-img-one{
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-right: 5px;
+}
+.find-content-list-pingfen-img-one img{
+    width: 100%;
+    height: 100%;
+}
+.find-content-list-pingfen-num{
+    float: left;
+    width: 45px;
+    height: 50px;
+    font-size: 30px;
+    line-height: 38px;
+}
+.find-content-list-desc{
+    width: 100%;
+    height: 70px;
+    font-size: 25px;
+    line-height: 70px;
+}
+.find-content-list-click{
+    width: 100%;
+    height: 60px;
+}
+.find-content-list-click-img{
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-right: 5px;
+}
+.find-content-list-click-img img{
+    width: 100%;
+    height: 100%;
+}
+.find-content-list-click-num{
+    float: left;
+    width: 100px;
+    height: 60px;
+    line-height: 70px;
+    font-size: 30px;
+}

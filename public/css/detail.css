@@ -1,0 +1,241 @@
+
+.detail-main{
+    width: 98%;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 90px;
+}
+.detail-info{
+    width: 100%;
+    margin-top: 40px;
+    height: 400px;
+}
+.detail-info-left{
+    width: 30%;
+    float: left;
+    height: 380px;
+    margin-right: 5%;
+}
+.detail-info-left img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+.detail-info-right{
+    width: 65%;
+    float: left;
+    text-align: left;
+    height: 400px;
+}
+.detail-info-right-title{
+    width: 100%;
+    height: 68px;
+    line-height: 68px;
+    font-size: 48px;
+    font-weight: 600;
+}
+.detail-info-right-hanwen{
+    width: 100%;
+    height: 65px;
+    line-height: 52px;
+    font-size: 35px;
+}
+.detail-info-right-weektop{
+    width: 50%;
+    height: 41px;
+}
+.detail-info-right-weektop-1{
+    color: #8989ca;
+    width: 30%;
+    height: 41px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border: 1px solid #8989ca;
+    float: left;
+    text-align: center;
+    line-height: 40px;
+    font-size: 24px;
+}
+.detail-info-right-weektop-2{
+    color: #fff;
+    width: 70%;
+    height: 41px;
+    background: #8989ca;
+    float: left;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 24px;
+}
+.detail-info-right-other{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    font-size: 19px;
+}
+.detail-info-right-description{
+    width: 100%;
+    height: 90px;
+    line-height: 30px;
+    font-size: 19px;
+}
+.detail-info-right-button{
+    width: 100%;
+    height: 60px;
+}
+.detail-info-right-button-one{
+    width: 30%;
+    margin-top: 6px;
+    height: 60px;
+    margin-right: 3%;
+    font-size: 23px;
+    line-height: 57px;
+    text-align: center;
+    float: left;
+    color: #8989ca;
+    border: 1px solid #8989ca;
+    border-radius: 8px;
+    background: #fff;
+}
+.detail-score{
+    width: 100%;
+    height: 230px;
+    border-radius: 10px;
+    margin-top: 25px;
+    background: rgb(137, 137, 202);
+}
+.detail-score-title{
+    width: 100%;
+    height: 55px;
+    color: #fff;
+    line-height: 55px;
+    text-indent: 24px;
+    font-size: 25px;
+}
+.detail-score-info-main{
+    width: 95%;
+    margin-left: auto;
+    height: 126px;
+    margin-right: auto;
+    border-bottom: 1px solid #fff;
+}
+.detail-score-info{
+    width: 86%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 126px;
+}
+.detail-score-info-1{
+    width: 21%;
+    float: left;
+    height: 126px;
+}
+.detail-score-info-1-1{
+    width: 100%;
+    height: 65%;
+    line-height: 78px;
+    text-align: center;
+    font-size: 65px;
+    color: #fff;
+}
+.detail-score-info-1-2{
+    width: 100%;
+    height: 22%;
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+}
+.detail-score-info-1-2-img{
+    width: 22px;
+    margin-left: 3px;
+    margin-right: 3px;
+    height: 22px;
+    float: left;
+}
+.detail-score-info-1-2-img img{
+    width: 100%;
+    height: 100%;
+}
+.detail-score-info-2{
+    width: 75%;
+    float: left;
+    margin-left: 2%;
+    height: 126px;
+}
+.detail-score-info-2-list1{
+    width: 100%;
+    margin-bottom: 5px;
+    height: 17px;
+}
+.detail-score-info-2-list1-star{
+    height: 17px;
+    width: 17%;
+    float: left;
+}
+.detail-score-info-2-list1-star-img{
+    width: 16px;
+    height: 16px;
+    float: left;
+    margin-right: 1px;
+}
+.detail-score-info-2-list1-line{
+    width: 82%;
+    float: left;
+    border-radius: 5px;
+    height: 16px;
+    background: #cdcdcd;
+}
+.detail-score-info-2-list1-line-left{
+    height: 16px;
+    float: left;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    background: #ffffff;
+}
+.detail-score-data-main{
+    width: 95%;
+    height: 47px;
+    line-height: 47px;
+    margin-left: auto;
+    color: #fff;
+    margin-right: auto;
+}
+.detail-score-data-words{
+    float: right;
+}
+.detail-contents{
+    height: 71px;
+    width: 100%;
+    margin-top: 40px;
+}
+.detail-contents-menu-main{
+    width: 100%;
+    height: 71px;
+}
+.detail-contents-menu{
+    width: 46%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 71px;
+}
+.detail-contents-menu-one{
+    width: 15%;
+    height: 71px;
+    font-size: 31px;
+    color: #cdcdcd;
+    line-height: 70px;
+    float: left;
+    margin-right: 17%;
+    margin-left: 17%;
+    text-align: center;
+}
+.detail-contents-list{
+    width: 100%;
+    min-height: 1000px;
+}
+
+/*
+* comments
+*/
+

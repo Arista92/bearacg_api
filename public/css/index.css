@@ -1,0 +1,202 @@
+/*
+index
+*/
+.index-head-all{
+    width: 96%;
+    height: 175px;
+    position: fixed;
+    top: 0;
+    left: 2%;
+    background: #fff;
+}
+
+.index-head-find{
+    width: 7%;
+    margin-right: 7px;
+    height: 77px;
+    float: right;
+}
+.index-head-input input{
+    width: 80%;
+    height: 80%;
+    margin-left: 44px;
+    margin-top: 10px;
+    background: none;
+    border: none;
+}
+.index-header{
+    width: 100%;
+    height: 80px;
+    background: #fff;
+    border-bottom: 0.5px solid #b5b5b5;
+}
+.index-header-one{
+    width: 33.3%;
+    float: left;
+    text-align: center;
+    font-size: 30px;
+
+}
+.index-header-one-words-1{
+    width: 23%;
+    height: 99%;
+    line-height: 276%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #9E9E9E;
+}
+.index-content{
+    margin-top: 200px;
+}
+#totop{
+    width: 67%;
+    height: 100px;
+    font-size: 35px;
+    line-height: 100px;
+    text-align: center;
+    color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 160px;
+    border-radius: 15px;
+    background: #fcd1c0;
+}
+
+/*
+cartoon
+*/
+.cartoon-menu{
+    width: 100%;
+    margin-top: 30px;
+    height: 201px;
+}
+.cartoon-menu-one{
+    width: 25%;
+    height: 201px;
+    float: left;
+}
+.cartoon-menu-up{
+    width: 100%;
+    height: 130px;
+    text-align: center;
+}
+.cartoon-menu-down{
+    width: 100%;
+    height: 70px;
+    font-size: 25px;
+    text-align: center;
+    line-height: 70px;
+
+}
+.cartoon-title{
+    width: 100%;
+    height: 52px;
+    line-height: 52px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+    text-align: left;
+    font-size: 30px;
+    font-weight: 200;
+    margin-left: 2%;
+}
+
+.cartoon-contents-1{
+    width: 100%;
+    height: 760px;
+    margin-bottom: 53px;
+}
+.cartoon-contents-2{
+    width: 100%;
+    height: 1290px;
+    margin-bottom: 53px;
+}
+.cartoon-contents-list{
+    width: 48%;
+    height: 380px;
+    margin-right: 1%;
+    margin-left: 1%;
+    float: left;
+    margin-bottom: 15px;
+}
+.cartoon-contents-list-img{
+    width: 100%;
+    height: 280px;
+}
+
+.cartoon-contents-list-img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 12px;
+}
+.cartoon-contents-list-big{
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    margin-bottom: 15px;
+}
+.cartoon-contents-list-big-img{
+    width: 100%;
+    height: 400px;
+}
+.cartoon-contents-list-big-img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 12px;
+}
+.cartoon-contents-list-words{
+    width: 100%;
+    height: 100px;
+}
+.cartoon-contents-list-words-title{
+    width: 100%;
+    height: 50px;
+    font-size: 30px;
+    text-align: left;
+    line-height: 50px;
+    text-indent: 7px;
+}
+.cartoon-contents-list-words-title-title{
+    width: 50%;
+    height: 50px;
+    text-align: left;
+    line-height: 50px;
+    float: left;
+}
+.cartoon-contents-list-words-title-click{
+    width: 50%;
+    height: 50px;
+    line-height: 50px;
+    float: left;
+}
+.cartoon-contents-list-words-title-click-img{
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+.cartoon-contents-list-words-title-click-img img{
+    width: 100%;
+    height: 100%;
+}
+.cartoon-contents-list-words-title-click span{
+    float: right;
+    margin-right: 5px;
+}
+.cartoon-contents-list-words-title-click b{
+    float: right;
+    color: #ffb3cc;
+    width: 50px;
+    height: 30px;
+    border: 1px solid #ffb3cc;
+    font-size: 20px;
+
+}
+.cartoon-contents-list-words-desctiption{
+    width: 100%;
+    height: 50px;
+    font-size: 25px;
+    text-align: left;
+    line-height: 50px;
+    color: #9E9E9E;
+    text-indent: 7px;
+}

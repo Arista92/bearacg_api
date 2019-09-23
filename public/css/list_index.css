@@ -1,0 +1,75 @@
+.list-index-menu{
+    width: 100%;
+    height: 80px;
+    margin-top: 80px;
+    border-bottom: 1px solid #cdcdcd;
+}
+.list-index-menu-one{
+    width: 7%;
+    margin-left: 13%;
+    margin-right: 13%;
+    height: 80px;
+    color: #cdcdcd;
+    float: left;
+    text-align: center;
+    line-height: 80px;
+    font-size: 30px;
+}
+.list-main{
+    width: 96%;
+    min-height: 800px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.list-index-title{
+    width: 100%;
+    height: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 35px;
+    font-weight: 600;
+    text-align: left;
+    line-height: 70px;
+}
+.list-index-plate{
+    width: 100%;
+    height: 200px;
+    background: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561617…com%2Fuploads%2Fitem%2F201802%2F12%2F20180212210012_xynvC.thumb.700_0.jpeg) repeat-x;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+.list-index-plate-left{
+    width: 25%;
+    height: 200px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background: rgba(8, 8, 8, 0.7);
+    color: #fff;
+    font-weight: 600;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px;
+}
+.list-index-plate2{
+    width: 100%;
+    height: 200px;
+    background: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561617558906&di=84ff5a1d486a980d14cc04ed904c786a&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201802%2F12%2F20180212210012_xynvC.thumb.700_0.jpeg) repeat-x;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 20px 20px 20px 30px;
+    color: #fff;
+}
+.list-index-plate2-top{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    font-size: 25px;
+}
+.list-index-plate2-bottom{
+    width: 100%;
+    height: 70px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 70px;
+}
